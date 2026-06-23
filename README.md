@@ -21,7 +21,6 @@ Tools — Git, GitHub, XAMPP
 ProjectDescriptionTechBus Reservation SystemFull-stack bus booking app with seat selection & booking managementMySQL, Node.js, Express, HTML/CSS/JSJava Chat ServerMulti-client real-time chat using sockets & multithreadingJava, Sockets, ConcurrencyClub Member DashboardInteractive dashboard with charts and member analyticsHTML5, CSS3, Chart.jsWeather + News DashboardLive weather & news feed using public APIsVanilla JS, REST APIs
 
 
-📌 Replace # with actual repo links after publishing!
 
 
 
@@ -38,7 +37,8 @@ ProjectDescriptionTechBus Reservation SystemFull-stack bus booking app with seat
 
 📫 Connect
 
-LinkedIn • GitHub
+LinkedIn - linkedin.com/in/abhishek-jain-a80a02357
+Github - github.com/abhishek711p-pixel
 
 
 Open to internship opportunities in SWE, Web Dev, or Data — let's connect!
