@@ -1,44 +1,94 @@
-Hey, I'm Abhishek Jain 👋
+Hi 👋 I'm Abhishek Jain
+Full Stack Developer
+Java Developer
+Open Source Learner
+Computer Science Student
+PW IOI | Medhavi Skills University
 
-CS undergrad @ PW IOI | Medhavi Skills University (2025–2029)
+💻 Full Stack Developer
+🚀 Learning DSA & Backend
+🌱 Looking for Internship
 
-Building projects in web dev, backend systems, and DSA — actively seeking internships.
+---------------------------------
 
+🛠 Tech Stack
 
-🛠️ Tech Stack
+(Java Badge)
+(JavaScript Badge)
+(Node.js Badge)
+(Express Badge)
+(MySQL Badge)
+(MongoDB Badge)
+(Tailwind Badge)
 
-Languages — Java, C++, JavaScript, SQL
-
-Frontend — HTML5, CSS3, Tailwind CSS
-
-Backend & DB — Node.js, Express, MySQL, MongoDB
-
-Tools — Git, GitHub, XAMPP
-
+---------------------------------
 
 🚀 Featured Projects
 
-ProjectDescriptionTechBus Reservation SystemFull-stack bus booking app with seat selection & booking managementMySQL, Node.js, Express, HTML/CSS/JSJava Chat ServerMulti-client real-time chat using sockets & multithreadingJava, Sockets, ConcurrencyClub Member DashboardInteractive dashboard with charts and member analyticsHTML5, CSS3, Chart.jsWeather + News DashboardLive weather & news feed using public APIsVanilla JS, REST APIs
+## 🚀 Featured Projects
+
+### 🚌 Bus Reservation System
+
+A full-stack seat booking application.
+
+**Tech Stack**
+- Node.js
+- Express
+- MySQL
+
+⭐ Features
+- User Login
+- Seat Selection
+- Booking Management
+- Admin Panel
+
+🔗 Live Demo | Source Code
+
+🌦 Weather Dashboard
+• Live Weather API
+• News API
+• Responsive UI
+
+💬 Java Chat Server
+• Multi Client Chat
+• Socket Programming
+• Multithreading
+
+📊 Club Dashboard
+• Charts
+• Member Analytics
+
+---------------------------------
+
+🏆 Achievements
+
+🏅 Top 10 in 2 Hackathons
+🏅 Active Tech Club Member
+🏅 Currently Learning System Design
+
+---------------------------------
+
+📈 GitHub Stats
+
+Contribution Graph
+
+Top Languages
+
+GitHub Streak
+
+---------------------------------
+
+🌐 Connect
+
+LinkedIn
+Portfolio
+Email
 
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-
-🏆 Highlights
-
-
-🥇 Top 10 in 2 hackathons
-💻 Active in tech club & sports club at university
-📚 Currently deep into DSA, OOP & system design fundamentals
-
-
-
-📫 Connect
-
-LinkedIn - linkedin.com/in/abhishek-jain-a80a02357
-Github - github.com/abhishek711p-pixel
-
-
-Open to internship opportunities in SWE, Web Dev, or Data — let's connect!
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
