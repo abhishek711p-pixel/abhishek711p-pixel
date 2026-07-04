@@ -7,7 +7,7 @@ PW IOI | Medhavi Skills University
 
 💻 Full Stack Developer
 🚀 Learning DSA & Backend
-🌱 Looking for Internship
+"🌱 Contributing to Open Source" 
 
 ---------------------------------
 
